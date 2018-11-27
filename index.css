@@ -54,20 +54,22 @@ table,th,td
     border-collapse: collapse;
     line-height: 40px;
     text-align: center;
-    font-size: 12px;
+    font-size: 7px;
     font-weight: bold;
 }
 table{
     
     width: 420px;
-    height: 424px;
+   
     
 }
 td{
     font-family: Georgia,Times New Roman,Times,Songti SC,serif;
+    
 }
 th{
     width: 80px;
+  
 }
 .tr1{
     background-color: orange;
